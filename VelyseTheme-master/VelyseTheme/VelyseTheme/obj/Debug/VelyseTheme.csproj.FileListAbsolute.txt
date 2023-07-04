@@ -1,0 +1,11 @@
+C:\Users\Estivan\Documents\Visual Studio 2017\Projects\VelyseTheme\VelyseTheme\bin\Debug\VelyseTheme.dll
+C:\Users\Estivan\Documents\Visual Studio 2017\Projects\VelyseTheme\VelyseTheme\bin\Debug\VelyseTheme.pdb
+C:\Users\Estivan\Documents\Visual Studio 2017\Projects\VelyseTheme\VelyseTheme\obj\Debug\VelyseTheme.csproj.CoreCompileInputs.cache
+C:\Users\Estivan\Documents\Visual Studio 2017\Projects\VelyseTheme\VelyseTheme\obj\Debug\VelyseTheme.dll
+C:\Users\Estivan\Documents\Visual Studio 2017\Projects\VelyseTheme\VelyseTheme\obj\Debug\VelyseTheme.pdb
+C:\Users\Owner\Documents\visual studio\repos\VelyseTheme-master\VelyseTheme\VelyseTheme\bin\Debug\VelyseTheme.dll
+C:\Users\Owner\Documents\visual studio\repos\VelyseTheme-master\VelyseTheme\VelyseTheme\bin\Debug\VelyseTheme.pdb
+C:\Users\Owner\Documents\visual studio\repos\VelyseTheme-master\VelyseTheme\VelyseTheme\obj\Debug\VelyseTheme.csproj.AssemblyReference.cache
+C:\Users\Owner\Documents\visual studio\repos\VelyseTheme-master\VelyseTheme\VelyseTheme\obj\Debug\VelyseTheme.csproj.CoreCompileInputs.cache
+C:\Users\Owner\Documents\visual studio\repos\VelyseTheme-master\VelyseTheme\VelyseTheme\obj\Debug\VelyseTheme.dll
+C:\Users\Owner\Documents\visual studio\repos\VelyseTheme-master\VelyseTheme\VelyseTheme\obj\Debug\VelyseTheme.pdb
