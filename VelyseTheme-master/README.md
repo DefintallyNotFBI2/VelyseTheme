@@ -1,5 +1,5 @@
 # VelyseTheme
-Works well with any language, I've messed around using it with C++ (using the .net desktop enviroment for C++ addon is visual studio)
+Works well with most languages, I've messed around using it with C++ (using the .net desktop enviroment for C++ addon is visual studio)
 I remember using themes in the past and my main issue was how I was un-able to change things in properties to my liking, so I decided to make most of it public inside the code, easily accesible in the properties window or the code itself! for instance, round or square windows/tools, show or dont show percentages etc
 Hope you enjoy it!
 Please let me know in discussion or otherwise if you find any bugs or problems, would be happy to update/fix or if you got any ideas you want me to add too it(will give you credit)
