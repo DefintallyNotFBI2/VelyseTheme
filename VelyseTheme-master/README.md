@@ -1,4 +1,6 @@
 # VelyseTheme
+You'll find the dll in debug folder (just look for "VelyseTheme.dll" and add it into your toolbox using visual studio)
+
 Works well with most languages(so long it's .net or has a addon allowing .net desktop environment libraries), I've messed around using it with C++ (using the .net desktop environment for C++ addon in visual studio)
 I remember using themes in the past and my main issue was how I was unable to change things in properties to my liking, so I decided to make most of it public inside the code, easily accessible in the properties window or the code itself! for instance, round or square windows/tools, show or don't show percentages etc
 Hope you enjoy it!
