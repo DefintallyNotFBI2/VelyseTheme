@@ -8,4 +8,4 @@ Currently I'm just doing this as a hobby and too re-learn programming. This was 
 all you have too do is find the dll, add it into your respotory or drag it into your toolbox, wabang there's some nice looking interface for you!
 If you see some blurr or graphical oddities - its most likely a driver issue (happened in the past) 
 
-Btw most of the code is copied from the web, especially the circular progress bar; I found it long ago(5 years ago) and at the time the code was almost 15 years old! it was so outdated the methods simply don't work with current .net versions, so I just updated and fixed it. I'm a busy person with my job, but will be adding credit where it's due soon! (Not like the younger me lol)
+Btw most of the code is copied from the web, especially the circular progress bar; I found it long ago(5 years ago) and at the time the code was almost 15 years old! it was so outdated the methods simply don't work with current .net versions, so I just updated, fixed it and made it look nice and smooth (mainly the math behind the cirlularity was copied). I'm a busy person with my job, but will be adding credit where it's due soon! (Not like the younger me lol)
